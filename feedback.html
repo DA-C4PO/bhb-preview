@@ -19,8 +19,8 @@
     <h1>Blog Feedback</h1>
     <p class="hint">Bitte deinen Aenderungswunsch eintragen.</p>
     <form method="POST" action="https://n8n.nextcloud-zietmann.online-preview.net/webhook/bhb-blog-feedback">
-      <label for="guid">Artikel-ID</label>
-      <input id="guid" name="guid" type="text" required>
+      <label for="key">Artikel-ID</label>
+      <input id="key" name="key" type="text" required>
       <label for="feedback">Aenderungswunsch</label>
       <textarea id="feedback" name="feedback" rows="6" required></textarea>
       <button type="submit">Absenden</button>
@@ -28,8 +28,8 @@
   </div>
   <script>
     const params = new URLSearchParams(window.location.search);
-    const guid = params.get('guid');
-    if (guid) document.getElementById('guid').value = guid;
+    const key = params.get('key');
+    if (key) document.getElementById('key').value = key;
   </script>
 </body>
 </html>
