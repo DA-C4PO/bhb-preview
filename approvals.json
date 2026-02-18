@@ -4,10 +4,11 @@
     "status": "edit"
   },
   "undefined": {
-    "status": "rejected",
+    "status": "pending",
     "resumeUrl": "https://n8n.nextcloud-zietmann.online-preview.net/webhook-waiting/244",
-    "updatedAt": "2026-02-18T16:16:29.4266960+01:00",
-    "feedback": ""
+    "updatedAt": "2026-02-18T17:24:05.281Z",
+    "feedback": "",
+    "imageFeedback": ""
   },
   "verbotvongreenwa-hingbunde-tagundbunde-r-aHR0cHM6": {
     "status": "rejected",
