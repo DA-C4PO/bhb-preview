@@ -1,11 +1,11 @@
 {
-    "undefined":  {
-                      "status":  "pending",
-                      "resumeUrl":  "https://n8n.nextcloud-zietmann.online-preview.net/webhook-waiting/230",
-                      "updatedAt":  "2026-02-18T10:45:51.634Z"
-                  },
-    "rabattfreibetrag-fr-arbeitnehmer-einer-v-aHR0cHM6":  {
-                                                              "updatedAt":  "2026-02-18T10:48:42.0202734Z",
-                                                              "status":  "rejected"
-                                                          }
+  "undefined": {
+    "status": "pending",
+    "resumeUrl": "https://n8n.nextcloud-zietmann.online-preview.net/webhook-waiting/232",
+    "updatedAt": "2026-02-18T10:50:08.253Z"
+  },
+  "rabattfreibetrag-fr-arbeitnehmer-einer-v-aHR0cHM6": {
+    "updatedAt": "2026-02-18T10:48:42.0202734Z",
+    "status": "rejected"
+  }
 }
